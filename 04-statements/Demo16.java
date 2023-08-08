@@ -18,7 +18,7 @@ public class Demo16 {
 
          /*
             Single Loop, Nested Loops
-            Via +
+            Via + (Space)
 
             + + + + + + +
             + + +   + + +
