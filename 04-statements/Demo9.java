@@ -37,9 +37,11 @@ public class Demo9 {
             case myAGrade + 5: 
                 System.out.println("Distinguished Pass"); 
                 break;
-            case 'B': 
+            case 'B':
+            { 
                 System.out.println("Credit Pass"); 
                 System.out.println("Credit Pass"); 
+            }
                 System.out.println("Credit Pass"); 
                 break;
             case 'C': 
